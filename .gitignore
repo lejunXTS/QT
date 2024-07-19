@@ -1,0 +1,9 @@
+# 排除 CoinFilp 文件夹
+CoinFilp/
+
+# 排除 绘图1.vsdx 和 绘图2.vsdx 文件
+绘图1.vsdx
+绘图2.vsdx
+
+# 排除所有目录下的 build 文件夹
+**/build/
